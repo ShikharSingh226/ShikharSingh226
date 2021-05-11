@@ -46,7 +46,25 @@
 <code><img src="https://media-exp1.licdn.com/dms/image/C560BAQGC029P7UbAMQ/company-logo_200_200/0/1562088387077?e=2159024400&v=beta&t=lEY4Obku1xJ3BB_BpN3Np9ILy8_zaB1_yjsfH9A57qs" alt="mysql" width="40" height="40"/></code>
 
   
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharsingh226&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shikharsingh226&show_icons=true&theme=light&line_height=27" alt="shikhar's github stats"/>
+</a>
+<a href="https://github.com/ShikharSingh226/Beans-and-Dependency-Injection-In-Spring">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharsingh226&repo=Beans-and-Dependency-Injection-In-Spring" />
 
+</a>
+<a href="https://github.com/ShikharSingh226/SpingBootDataRestAPI">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharsingh226&repo=SpingBootDataRestAPI" />
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 <!---
 ShikharSingh226/ShikharSingh226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
