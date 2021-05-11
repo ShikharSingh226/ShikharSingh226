@@ -42,6 +42,9 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 <code><img src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt="mysql" width="40" height="40"/></code>
 <code><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1e0d62f445e6448af1e125f5702c8227/reactjs-development-services.png" alt="mysql" width="40" height="40"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="mysql" width="40" height="40"/></code>
+<code><img src="https://media-exp1.licdn.com/dms/image/C560BAQGC029P7UbAMQ/company-logo_200_200/0/1562088387077?e=2159024400&v=beta&t=lEY4Obku1xJ3BB_BpN3Np9ILy8_zaB1_yjsfH9A57qs" alt="mysql" width="40" height="40"/></code>
+
   
 
 <!---
