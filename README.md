@@ -28,8 +28,8 @@
 <br/>
  -
  
- - 🔭 My primary skills and coding languages: Java, J2EE, Javascript, SpringBoot, SQL, Html, Css, ReactJS
-- 🌱  I’m currently learning more about BlockChain.
+ - 🔭 My primary skills and coding languages: Java, J2EE, Javascript, SpringBoot, Spring, Oracle SQL,Selenium,TestNg, BDD/Cucumber, Html, Css, ReactJS
+- 🌱  I’m currently learning more about BlockChain and Cyber Security.
 - 👯  Passionate for learning & exploring new Tech. 
 - 📫 How to reach me: [Twitter - @iShikharSingh](https://twitter.com/iShikharSingh), [Linkedin - @shikharsingh226](https://www.linkedin.com/in/shikharsingh226/)
 - 😄 Pronouns: He/His
